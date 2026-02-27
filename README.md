@@ -59,10 +59,10 @@
 
 
 # Клонировать репозиторий
-git clone https://vbs-hub/python-code-test.git
+git clone https://vbs-hub/python-code-test
 
 # Перейти в папку
-cd python-code-test
+python-code-test
 
 # Запустить игру на меткость
 python turtle_aim.py
