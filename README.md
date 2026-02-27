@@ -59,7 +59,7 @@
 
 
 # Клонировать репозиторий
-git clone https://github.com/ваш-username/python-code-test.git
+git clone https://vbs-hub/python-code-test.git
 
 # Перейти в папку
 cd python-code-test
